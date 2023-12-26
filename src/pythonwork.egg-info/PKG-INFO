@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pythonwork
+Version: 0.0.1
+Summary: A small example package
+Author-email: sun yanling <123@123.com>
+Project-URL: Homepage, https://github.com/sylfeitian/my_py
+Project-URL: Issues, https://github.com/sylfeitian/my_py/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# my_py
